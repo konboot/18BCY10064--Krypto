@@ -51,6 +51,8 @@ I have divided the project in two parts-
       
       ![Demo5](https://user-images.githubusercontent.com/53315283/132959988-9d27d079-34da-4fd4-a086-48cfafddade8.PNG)
       
+      ##### I have used history.txt file as my databse to store user alerts.
+      
  ## How you are going to run the App-
  As I don't have much time to combine the both project as like one WebApp. so, you have to run it seprately. 
  
