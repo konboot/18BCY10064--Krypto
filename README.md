@@ -5,9 +5,9 @@
  This assessment is given by Krypto Company.
  
 ## Instructions:
-**IMPORTANT: Because this program uses the yagmail library, this must be a Gmail account!**
-<br> NOTE: "Enable less secure apps" must be enabled on the sender gmail or google will block it.
+**IMPORTANT: Must use a Gmail account! as I have used yagmail**
 <br> NOTE: In case of invalid email credentials, an email will not sent.
+<br> EXTRA FEATURE: We can also alert as I have used winsounds.
 
 ## What I have done-
 I have divided the project in two parts-
