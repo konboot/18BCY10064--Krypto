@@ -69,7 +69,7 @@ I have divided the project in two parts-
         - 'npm install axios'
         - 'npm start'
        
-       It will open up the http://localhost:3000 to view it in the browser. You will get real time update because of using the API given by you (https://api.coingecko.com/api/v3/coins/markets?vs_currency=USD&order=market_cap_d esc&per_page=100&page=1&sparkline=false) which gives USD amount of each crypto.
+       It will open up the http://localhost:3000 to view it in the browser. You will get real time update because of using the API given by you (https://api.coingecko.com/api/v3/coins/markets?vs_currency=USD&order=market_cap_desc&per_page=100&page=1&sparkline=false) which gives USD amount of each crypto.
    3. Open the Second folder named Krypto- Real Time Price Alert WebApp in Visual studio code. Type the following commands to run the file.
        
        Commands:
